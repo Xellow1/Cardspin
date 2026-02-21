@@ -1,1 +1,1 @@
-git clone https://github.com/tvoje-meno/CardSpin.git
+git clone https://github.com/Xellow1/CardSpin.git
